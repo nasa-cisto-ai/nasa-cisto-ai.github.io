@@ -1,0 +1,8 @@
+title: NASA-CISTO-AI.GitHub.io
+description: Website for the documentation of underlying repositories.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
